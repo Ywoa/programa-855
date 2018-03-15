@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define max 15
+#define max 20
 int main() {
 int v1[max];
 int i, maior = NULL, menor = NULL;
